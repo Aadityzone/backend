@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Aadityzone/backend#readme",
+  "bugs": {
+    "url": "https://github.com/Aadityzone/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aadityzone/backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": " node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
